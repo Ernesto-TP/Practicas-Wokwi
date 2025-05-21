@@ -1,5 +1,5 @@
 # ================================================================
-# Nombre del archivo: contador_boton.py
+# Lenguajes de Interfaz - TECNM Campus ITT
 # Descripción: Muestra el incremento o decremento de opciones dependiendo 
 #               de uno de los dos botones presionados
 # Nombre: Ernesto Torres Pineda 22211665       
