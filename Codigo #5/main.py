@@ -1,6 +1,6 @@
 # ================================================================
 # Lenguajes de Interfaz - TECNM Campus ITT
-# Descripción: Indica cuando hay una inclinacion y los valores de esta.
+# Descripción: Indica cuando hay una inclinacion y los valores de esta, utilizando un accelerometro y giroscopio MPU6050.
 # Nombre: Ernesto Torres Pineda 22211665       
 # Fecha: 21/05/2025     
 # ================================================================
