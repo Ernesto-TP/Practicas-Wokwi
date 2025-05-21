@@ -1,5 +1,5 @@
 # ================================================================
-# Nombre del archivo: contador_boton.py
+# Lenguajes de Interfaz - TECNM Campus ITT
 # Descripción: Incrementa un contador mostrado en pantalla OLED SSD1306
 #              usando un botón conectado a la Raspberry Pi Pico W.
 # Nombre: Ernesto Torres Pineda 22211665
