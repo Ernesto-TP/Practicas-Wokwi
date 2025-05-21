@@ -1,1 +1,19 @@
+from machine import Pin, I2C
+from lcd_api import LcdApi
+from i2c_lcd import I2cLcd
+import time
 
+# LCD
+i2c = I2C(0, sda=Pin(0), scl=Pin(1), freq=400000)
+lcd = I2cLcd(i2c, i2c.scan()[0], 2, 16)
+
+# Sensor PIR en GP15
+pir = Pin(15, Pin.IN)
+
+while True:
+    lcd.clear()
+    if pir.value():
+        lcd.putstr("Movimiento\ndetectado!")
+    else:
+        lcd.putstr("Sin movimiento")
+    time.sleep(0.5)
