@@ -1,5 +1,5 @@
 # ================================================================
-# Nombre del archivo: contador_boton.py
+# Lenguajes de Interfaz - TECNM Campus ITT
 # Descripción: Muestra los valores seleccionados de un keypad de 16 botones
 # Nombre: Ernesto Torres Pineda 22211665
 # Fecha: 21/05/2025
