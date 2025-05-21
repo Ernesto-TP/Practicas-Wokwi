@@ -1,3 +1,9 @@
+# ================================================================
+# Lenguajes de Interfaz - TECNM Campus ITT
+# Descripción: Muestra la distancia detectada por un sensor ultrasonico HC-SR04
+# Nombre: Ernesto Torres Pineda 22211665
+# Fecha: 21/05/2025
+# ================================================================
 from machine import Pin, I2C, time_pulse_us
 from lcd_api import LcdApi
 from i2c_lcd import I2cLcd
