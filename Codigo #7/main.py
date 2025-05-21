@@ -1,3 +1,9 @@
+# ================================================================
+# Lenguajes de Interfaz - TECNM Campus ITT
+# Descripción: Muestra el valor exacto de un potenciometro.
+# Nombre: Ernesto Torres Pineda 22211665
+# Fecha: 21/05/2025
+# ================================================================
 from machine import Pin, ADC, I2C
 from lcd_api import LcdApi
 from i2c_lcd import I2cLcd
