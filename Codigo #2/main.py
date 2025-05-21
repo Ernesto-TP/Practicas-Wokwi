@@ -1,5 +1,5 @@
 # ================================================================
-# Nombre del archivo: contador_boton.py
+# Lenguajes de Interfaz - TECNM Campus ITT
 # Descripción: Muestra los valores de un sensor LDR en pantalla 
 # Nombre: Ernesto Torres Pineda 22211665       
 # Fecha: 21/05/2025     
